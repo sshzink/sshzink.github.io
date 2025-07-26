@@ -17,9 +17,9 @@ I am currently completing my Master’s in Human Language Technology with a focu
 As an undergraduate, I concentrated in French with focused study in Japanese. I had the opportunity to study abroad at the Université de Technologie de Compiègne in 2019, an experience that deepened my appreciation for multilingualism and language acquisition. I also served as President of the Queer Student Union from 2019–2021, developing leadership and organizational skills that I continue to carry into my work today.  
 
 ## Projects  
-- **Multilingual Translator Tool** – A hybrid rule-based and statistical translator for English, Spanish, and French.  
-- **Author Identification System** – A multi-branch neural model that integrates deep learning with handcrafted stylometric features to determine shared authorship between text samples.  
-- **Spanish-Learning Chatbot** – A browser-based language-learning chatbot designed for English speakers learning Spanish. Features include:  
+**Multilingual Translator Tool** – A hybrid rule-based and statistical translator for English, Spanish, and French.  
+**Author Identification System** – A multi-branch neural model that integrates deep learning with handcrafted stylometric features to determine shared authorship between text samples.  
+**Spanish-Learning Chatbot** – A browser-based language-learning chatbot designed for English speakers learning Spanish. Features include:  
   - Structured lessons (multiple-choice + free-response)  
   - CSV-driven vocabulary expansion  
   - Conjugation/grammar feedback  
