@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sasha Zink"
-  avatar           : "/images/sasha_gitpic.png"
+  avatar           : "sasha_gitpic.jpg"
   bio              : "I'm completing my M.S. in Human Language Technology at the University of Arizona, where I specialize in Natural Language Processing."
   location         : "Austin, TX"
   #employer         : 
