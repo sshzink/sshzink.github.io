@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About
 I’ve always had a knack for language. In 2021, I graduated from Hunter College with a B.A. in Foreign Language and Literature (French, Spanish, and Japanese), which felt like the perfect way to dig into language and culture the way I always intended. Connecting across cultures was something that was very important to me, and so I was naturally drawn to these concepts and excited for my future of linguistic connections.
 
 Growing up, I was your average computer nerd. I spent hours messing around with tech and figuring out how everything worked. It just didn't occur to me at that age that I could take that curiosity and turn it into something academic, let alone a career. After undergrad, I kept coming back to this idea: what if I could combine those two parts of myself? A few years later, I decided to stop wondering and actually do it. That’s when I took the leap and went back to school for an M.S. in Human Language Technology at the University of Arizona.
