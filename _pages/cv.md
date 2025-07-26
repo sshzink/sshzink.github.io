@@ -9,52 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education  
+**MS Human Language Technology – University of Arizona (2023–2025)**  
+I am currently completing my Master’s in Human Language Technology with a focus on Natural Language Processing and Computational Linguistics. The program has given me the chance to build a strong foundation in both theoretical and applied linguistics alongside machine learning and programming coursework.  
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**BA French Language & Civilization – CUNY Hunter College (2017–2021)**  
+As an undergraduate, I concentrated in French with focused study in Japanese. I had the opportunity to study abroad at the Université de Technologie de Compiègne in 2019, an experience that deepened my appreciation for multilingualism and language acquisition. I also served as President of the Queer Student Union from 2019–2021, developing leadership and organizational skills that I continue to carry into my work today.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Projects  
+- **Multilingual Translator Tool** – A hybrid rule-based and statistical translator for English, Spanish, and French.  
+- **Author Identification System** – A multi-branch neural model that integrates deep learning with handcrafted stylometric features to determine shared authorship between text samples.  
+- **Spanish-Learning Chatbot** – A browser-based language-learning chatbot designed for English speakers learning Spanish. Features include:  
+  - Structured lessons (multiple-choice + free-response)  
+  - CSV-driven vocabulary expansion  
+  - Conjugation/grammar feedback  
+  - Spanglish-based reinforcement for early learners
 
-Publications
-======
-  # Can be listed manually, or generated from site elements using the following code: (only if you add these components back in)
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills  
+- **Programming:** Python, Java, R, Prolog, SQL, Perl  
+- **Machine Learning:** TensorFlow, Keras, PyTorch, scikit-learn  
+- **NLP Tools:** NLTK, SpaCy, Stanford CoreNLP, Gensim  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Tableau  
+- **Other Tools:** GitHub, Docker, Google Cloud  
+
+## Work Experience   
+Before transitioning into NLP, I built a strong foundation in team management and operations across multiple industries:  
+- **Pet Care – Austin Pet Ranch (2022–Current)**  
+  Manage daily operations for a large-scale boarding and training facility, overseeing the care of up to 160 animals and leading a team of 10 employees.  
+- **Food & Beverage – Starbucks (2016–2022)**  
+  Progressed from Barista to Shift Supervisor and ultimately General Manager, leading teams of 20+ in high-volume café environments. Directed staff training and development, streamlined operations, and implemented strategies to enhance customer experience.  
